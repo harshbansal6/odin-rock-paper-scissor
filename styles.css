@@ -1,0 +1,13 @@
+button {
+    padding: 20px;
+    border-radius: 8px;
+    border: 2px solid black;
+    margin: 0 auto;
+    background: white;
+    display: flex;
+    flex-direction: row;
+}
+
+h1 {
+    text-align: center;
+}
